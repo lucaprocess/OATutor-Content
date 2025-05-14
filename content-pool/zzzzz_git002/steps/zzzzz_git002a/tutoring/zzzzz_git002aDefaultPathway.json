@@ -5,6 +5,8 @@
         "dependencies": [],
         "title": "Hint 1",
         "text": "The answer is 'git init'",
-        "variabilization": {}
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]
