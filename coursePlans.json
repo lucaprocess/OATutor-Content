@@ -31,7 +31,7 @@
             {
                 "id": "kai_git_tutor",
                 "name": "1.3: Greek Tutor",
-                "topics": "Understanding Git",
+                "topics": "Domain Knowledge",
                 "allowRecycle": true,
                 "learningObjectives": {
                     "basic_git_concepts": 0.85,
