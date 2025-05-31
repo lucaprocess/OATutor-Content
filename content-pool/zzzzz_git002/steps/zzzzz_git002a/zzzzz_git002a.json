@@ -1,12 +1,18 @@
 {
     "id": "zzzzz_git002a",
     "stepAnswer": [
-        "git init"
+        "Geia sou"
     ],
-    "problemType": "TextBox",
-    "stepTitle": "What command initializes a new Git repository?",
-    "stepBody": "",
+    "problemType": "MultipleChoice",
+    "stepTitle": "What means „hello“ in greek?",
+    "stepBody": "What means „hello“ in greek?",
     "answerType": "string",
     "variabilization": {},
-    "answerLatex": "git init"
+    "choices": [
+            "Bon Jour",
+            "Geia sou",
+            "Malaka",
+            "Salve"
+        ],
+    "answerLatex": "Geia sou"
 }

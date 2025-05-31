@@ -14,23 +14,16 @@
     "zzzzz_git001a": [
         "basic_git_concepts"
     ],
-    "zzzzz_git001b": [
-        "basic_git_concepts"
-    ],
-    "zzzzz_git001c": [
-        "basic_git_concepts",
-        "basic_git_operations"
-    ],
+  
     "zzzzz_git002a": [
         "basic_git_operations"
     ],
-    "zzzzz_git002b": [
+
+     "zzzzz_git003a": [
         "basic_git_operations"
-    ],
-    "zzzzz_git002c": [
-        "basic_git_operations"
-    ],
-    "zzzzz_git002d": [
+    ]
+    ,
+        "zzzzz_git004a": [
         "basic_git_operations"
     ]
 }

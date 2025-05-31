@@ -1,0 +1,20 @@
+{
+    "id": "zzzzz_git004a",
+    "stepAnswer": [
+        "Gyros"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is a popular traditional Greek food?",
+    "stepBody": "What is a popular traditional Greek food?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Gyros",
+            "Pizza",
+            "Sushi",
+            "Tacos",
+            "Moussaka",
+            "Croissant"
+        ],
+    "answerLatex": "Gyros"
+}

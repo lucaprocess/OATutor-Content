@@ -1,0 +1,18 @@
+{
+    "id": "zzzzz_git003a",
+    "stepAnswer": [
+        "Crete"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the biggest island in Greece​?",
+    "stepBody": "What is the biggest island in Greece​?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Rhodes",
+            "Zante",
+            "Corfu",
+            "Crete"
+        ],
+    "answerLatex": "Crete"
+}
