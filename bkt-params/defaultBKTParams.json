@@ -23,6 +23,12 @@
         "probSlip": 0.1,
         "probGuess": 0.1
     },
+        "basic_greek_concepts": {
+        "probMastery": 0.1,
+        "probTransit": 0.1,
+        "probSlip": 0.1,
+        "probGuess": 0.1
+    },
     "branching_and_merging": {
         "probMastery": 0.1,
         "probTransit": 0.1,

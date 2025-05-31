@@ -1,0 +1,18 @@
+{
+    "id": "zzzzz_greek001a",
+    "stepAnswer": [
+        "Athens"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What is the Capital of Greece?",
+    "stepBody": "What is the Capital of Greece?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Athens",
+            "Thessaloniki",
+            "Arta",
+            "Patras​"
+        ],
+    "answerLatex": "Athens"
+}
