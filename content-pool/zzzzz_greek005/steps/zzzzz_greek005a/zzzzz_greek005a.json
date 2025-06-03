@@ -1,0 +1,18 @@
+{
+    "id": "zzzzz_greek005a",
+    "stepAnswer": [
+        "Ares"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "Which of the following is a Greek God?​​",
+    "stepBody": "Which of the following is a Greek God?​",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Hercules",
+            "Perseus",
+            "Ares",
+            "Achilles"
+        ],
+    "answerLatex": "Ares"
+}

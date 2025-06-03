@@ -3,7 +3,7 @@
         "id": "zzzzz_greek001a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Which capital city of Greece is also commonly used as a female first name?",
+        "title": "Which city of Greece is also commonly used as a female first name?",
         "text": "Synonymously used as a name​",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -15,7 +15,7 @@
         "dependencies": [
             "zzzzz_greek001a-h1"
         ],
-        "title": "Which Greek capital is famously regarded as the birthplace of democracy?",
+        "title": "Which Greek city is famously regarded as the birthplace of democracy?",
         "text": "It is known as the birthplace of democracy.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
@@ -28,7 +28,7 @@
             "zzzzz_greek001a-h1"
         ],
         "title": "Which of the given answers starts with an A?",
-        "text": "The Capital of Greece starts with an A.",
+        "text": "The city of Greece starts with an A.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

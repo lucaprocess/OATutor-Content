@@ -1,22 +1,22 @@
 [
     {
-        "id": "zzzzz_greek002a-h1",
+        "id": "zzzzz_greek004a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Which of the following sayings are actually used in the Greek language (only two are correct)?",
-        "text": "Only two options are Greek​",
+        "title": "Which appetizers come into your mind?",
+        "text": "The answer is an Greek appetizer.​",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "zzzzz_greek002a-h2",
+        "id": "zzzzz_greek004a-h2",
         "type": "hint",
         "dependencies": [
-            "zzzzz_greek002a-h1"
+            "zzzzz_greek004a-h1"
         ],
-        "title": " Which common Greek saying is made up of two words?",
-        "text": "Consists of two words",
+        "title": "What of the given answers contains fish eggs?",
+        "text": "The appetizer contains fish eggs.",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
