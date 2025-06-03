@@ -20,5 +20,17 @@
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_greek001a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_greek001a-h1"
+        ],
+        "title": "Which of the given answers starts with an A?",
+        "text": "The Capital of Greece starts with an A.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     }
 ]

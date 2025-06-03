@@ -1,0 +1,36 @@
+[
+    {
+        "id": "zzzzz_greek003a-h1",
+        "type": "hint",
+        "dependencies": [],
+        "title": "Which Greek island is famous for producing high-quality olive oil and is also the largest in the country?",
+        "text": "The island is known for its olive oil​",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+    {
+        "id": "zzzzz_greek003a-h2",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_greek003a-h1"
+        ],
+        "title": "What is the largest Greek island whose capital city is Heraklion?",
+        "text": "The capital of this island is Heraklion.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    },
+        {
+        "id": "zzzzz_greek003a-h3",
+        "type": "hint",
+        "dependencies": [
+            "zzzzz_greek003a-h2"
+        ],
+        "title": "Which large Greek island is not only famous for its size and history but also for tales of local mobs?",
+        "text": "The island is known for its mobs.",
+        "variabilization": {},
+        "oer": "https://OATutor.io <OATutor>",
+        "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
+    }
+]
