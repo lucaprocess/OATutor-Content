@@ -1,22 +1,22 @@
 [
     {
-        "id": "zzzzz_greek001a-h1",
+        "id": "zzzzz_greek002a-h1",
         "type": "hint",
         "dependencies": [],
-        "title": "Which capital city of Greece is also commonly used as a female first name?",
-        "text": "Synonymously used as a name​",
+        "title": "Which of the following greetings are actually used in the Greek language only two are correct?",
+        "text": "Only two options are Greek​",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"
     },
     {
-        "id": "zzzzz_greek001a-h2",
+        "id": "zzzzz_greek002a-h2",
         "type": "hint",
         "dependencies": [
-            "zzzzz_greek001a-h1"
+            "zzzzz_greek002a-h1"
         ],
-        "title": "Which Greek capital is famously regarded as the birthplace of democracy?",
-        "text": "It is known as the birthplace of democracy.",
+        "title": " Which common Greek greeting is made up of two words?",
+        "text": "Consists of two words",
         "variabilization": {},
         "oer": "https://OATutor.io <OATutor>",
         "license": "https://creativecommons.org/licenses/by/4.0/ <CC BY 4.0>"

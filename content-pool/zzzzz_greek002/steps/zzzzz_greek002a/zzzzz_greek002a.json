@@ -1,0 +1,19 @@
+
+{
+    "id": "zzzzz_greek002a",
+    "stepAnswer": [
+        "Geia sou"
+    ],
+    "problemType": "MultipleChoice",
+    "stepTitle": "What means „hello“ in greek?",
+    "stepBody": "What means „hello“ in greek?",
+    "answerType": "string",
+    "variabilization": {},
+    "choices": [
+            "Bon Jour",
+            "Geia sou",
+            "Malaka",
+            "Salve"
+        ],
+    "answerLatex": "Geia sou"
+}
